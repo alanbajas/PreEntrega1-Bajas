@@ -1,2 +1,3 @@
-# PreEntrega1-Bajas
-ESTE ES EL REPOSITORIO DE MI TERCERA PREENTREGA DE MI PROPYECTO FINAL QUE SERA UNA PIZZERIA
+# Rpresentacion de mi proyecto
+alan bajas
+

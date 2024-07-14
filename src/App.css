@@ -1,0 +1,54 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 1rem;
+}
+
+.navbar-brand {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-nav {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-item .nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+.cart-widget {
+  position: relative;
+}
+
+.cart-widget img {
+  width: 30px;
+}
+
+.notification-bubble {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.item-list-container {
+  padding: 2rem;
+  text-align: center;
+}
